@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to minibank accounts related test "
+  message: "Welcome to minibank accounts related test test"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@minibank.com"
